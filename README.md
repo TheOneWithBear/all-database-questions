@@ -4,4 +4,5 @@
 
 |  #  |      Title     |   Solutions   | Difficulty    | Tag          
 |-----|----------------|---------------|---------------|---------------
-|1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[Solution](../master/database/_1757.sql) || Easy |
+|1|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[Solution](../master/database/_1.sql)| | Easy|
+
